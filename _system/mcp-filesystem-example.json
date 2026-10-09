@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "context-vault": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/example/Documents/Codex/2026-05-22/https-www-youtube-com-watch-v/ContextVault"
+      ]
+    }
+  }
+}
+
